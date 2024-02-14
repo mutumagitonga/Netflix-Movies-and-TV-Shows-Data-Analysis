@@ -1,0 +1,79 @@
+country,type,title
+Argentina,Movie,71
+Argentina,TV Show,20
+Australia,Movie,94
+Australia,TV Show,65
+Belgium,Movie,78
+Belgium,TV Show,12
+Brazil,Movie,66
+Brazil,TV Show,31
+Canada,Movie,319
+Canada,TV Show,126
+China,Movie,114
+China,TV Show,48
+Colombia,Movie,20
+Colombia,TV Show,32
+Denmark,Movie,34
+Denmark,TV Show,14
+Egypt,Movie,102
+Egypt,TV Show,15
+France,Movie,303
+France,TV Show,90
+Germany,Movie,182
+Germany,TV Show,44
+Hong Kong,Movie,100
+Hong Kong,TV Show,5
+India,Movie,962
+India,TV Show,84
+Indonesia,Movie,86
+Indonesia,TV Show,4
+Ireland,Movie,32
+Ireland,TV Show,14
+Israel,Movie,19
+Israel,TV Show,11
+Italy,Movie,74
+Italy,TV Show,25
+Japan,Movie,119
+Japan,TV Show,198
+Lebanon,Movie,24
+Lebanon,TV Show,7
+Mexico,Movie,111
+Mexico,TV Show,58
+Netherlands,Movie,42
+Netherlands,TV Show,8
+New Zealand,Movie,25
+New Zealand,TV Show,8
+Nigeria,Movie,94
+Nigeria,TV Show,9
+Norway,Movie,21
+Norway,TV Show,9
+Others,Movie,371
+Others,TV Show,78
+Philippines,Movie,80
+Philippines,TV Show,3
+Poland,Movie,31
+Poland,TV Show,9
+Singapore,Movie,18
+Singapore,TV Show,23
+South Africa,Movie,51
+South Africa,TV Show,11
+South Korea,Movie,61
+South Korea,TV Show,170
+Spain,Movie,171
+Spain,TV Show,61
+Sweden,Movie,31
+Sweden,TV Show,11
+Taiwan,Movie,19
+Taiwan,TV Show,70
+Thailand,Movie,46
+Thailand,TV Show,24
+Turkey,Movie,83
+Turkey,TV Show,30
+United Arab Emirates,Movie,36
+United Arab Emirates,TV Show,1
+United Kingdom,Movie,532
+United Kingdom,TV Show,272
+United States,Movie,2748
+United States,TV Show,938
+Unknown,Movie,439
+Unknown,TV Show,391
